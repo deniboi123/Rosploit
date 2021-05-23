@@ -1,7 +1,7 @@
 # RoSploit
-A free, simple roblox exploit with no keys and designed for Android, coded in C#.
+A free, simple roblox exploit with no keys.
 
-RoSploit is a mobile roblox exploit, designed for Android users to use. RoSploit is 100% safe and doesn't have any RATS. This exploit also is made with Visual Studio 2019 Xamarin, a guide to install RoSploit is on my channel.
+RoSploit is a roblox exploit, designed for PC users to use. RoSploit is 100% safe and doesn't have any RATS. This exploit also is made with Visual Studio 2019 c#n, a guide to install RoSploit is on my channel.
 
 
 ### How to install?
