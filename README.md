@@ -1,4 +1,6 @@
-# RoSploit
+# RoSploit v0.a 
+
+# MOVED TO http://github.com/deniboi123/RoSploitB
 A free, simple roblox exploit with no keys.
 
 RoSploit is a roblox exploit, designed for PC users to use. RoSploit is 100% safe and doesn't have any RATS. This exploit also is made with Visual Studio 2019 c#n, a guide to install RoSploit is on my channel.
